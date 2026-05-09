@@ -5,7 +5,6 @@
 # 忽略 MEMORY.md
 MEMORY.md
 
-# 忽略 awesome-design-md、docs 和 nanobot
+# 忽略 awesome-design-md 和 docs
 awesome-design-md
 docs
-nanobot
