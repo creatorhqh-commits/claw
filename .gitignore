@@ -1,0 +1,11 @@
+# 忽略 . 开头的文件和文件夹（但保留 .gitignore）
+.*
+!.gitignore
+
+# 忽略 MEMORY.md
+MEMORY.md
+
+# 忽略 awesome-design-md、docs 和 nanobot
+awesome-design-md
+docs
+nanobot
